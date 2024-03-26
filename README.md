@@ -1,0 +1,2 @@
+# cready
+Cmake generator
