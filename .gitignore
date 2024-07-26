@@ -1,6 +1,5 @@
 CMakeLists.txt.user
 CMakeCache.txt
-CMakePresets.json
 CMakeFiles
 CMakeScripts
 Testing
@@ -11,3 +10,4 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 build/
+*.sh
